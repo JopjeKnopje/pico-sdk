@@ -7,6 +7,7 @@ RUN apt-get update -y && \
                        ca-certificates \
                        python3 \
                        tar \
+                       nodejs \
                        build-essential \
                        gcc-arm-none-eabi \
                        libnewlib-arm-none-eabi \
